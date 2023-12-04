@@ -8,7 +8,7 @@ window.onload = function(){
               </button>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-					<li class="nav-item"><a class="nav-link" href="main.html">Главная</a></li>
+					<li class="nav-item"><a class="nav-link" href="index.html">Главная</a></li>
                     <li class="nav-item"><a class="nav-link" href="search.html">Поиск по объявлениям</a></li>
                     <li class="nav-item"><a class="nav-link" href="sign up.html">Регистрация</a></li>
 					<li class="nav-item"><a class="nav-link" href="sign in.html">Личный кабинет</a></li>
