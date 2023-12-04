@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.title {
+    text-align: center;
+    padding: 0.8em;
+    background: rgb(119, 119, 255);
+    color: white;
+}
+
+.titleOne {
+    margin-top: 10px;
+    text-align: center;
+    padding: 0.8em;
+    background: rgb(119, 119, 255);
+    color: white;
+}
+
+.text {
+    background: rgb(119, 119, 255, 0.8);
+    border: 2px solid white;
+    color: white;
+    width: 45%;
+    margin: auto;
+    height: 100px;
+    margin-bottom: 30px
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #d9d9d9;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 1em;
+    flex-wrap: wrap;
+    margin: 10px 0 10px 0;
+}
+
+.subscription {
+    margin: 50px 30% 50px 30%;
+}
+
+.post {
+    transition: all 0.25s;
+}
+
+.post:hover{
+    border: 1px solid rgb(119, 119, 255);
+    box-shadow: 0px 0px 10px 0px rgb(119, 119, 255);
+}
+
+.footer {
+	background: rgb(119, 119, 255);
+	color: white;
+	padding: 1em 10% 1em 10%;
+}
+
+.footer p {
+	margin: 0;
+}
+
+.subscribe {
+	border: 1px solid rgb(119, 119, 255);
+	margin-top: 10px;
+	background: rgb(119, 119, 255);
+}
+
+.subscribe:hover {
+	background: rgb(61, 61, 255);
+}
