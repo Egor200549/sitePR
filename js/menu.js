@@ -7,13 +7,13 @@ window.onload = function(){
                 <span class="navbar-toggler-icon"></span>
               </button>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 align-items-center">
+                  <img style = "width: 8%; margin-right: 15px;" src = "images/logo.png"></img>
 					<li class="nav-item"><a class="nav-link" href="index.html">Главная</a></li>
                     <li class="nav-item"><a class="nav-link" href="search.html">Поиск по объявлениям</a></li>
                     <li class="nav-item"><a class="nav-link" href="sign up.html">Регистрация</a></li>
 					<li class="nav-item"><a class="nav-link" href="sign in.html">Личный кабинет</a></li>
 					<li class="nav-item"><a class="nav-link" href="add announcement.html">Добавить объявление</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Отзывы</a></li>
 					
                 </ul>
                 <form class="d-flex">
