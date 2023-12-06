@@ -14,7 +14,6 @@ window.onload = function(){
                     <li class="nav-item"><a class="nav-link" href="sign up.html">Регистрация</a></li>
 					<li class="nav-item"><a class="nav-link" href="sign in.html">Личный кабинет</a></li>
 					<li class="nav-item"><a class="nav-link" href="add announcement.html">Добавить объявление</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Отзывы</a></li>
 					
                 </ul>
                 <form class="d-flex">
