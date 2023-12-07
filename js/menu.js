@@ -9,11 +9,11 @@ window.onload = function(){
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 align-items-center">
                   <img style = "width: 8%; margin-right: 15px;" src = "images/logo.png"></img>
-					<li class="nav-item"><a class="nav-link" href="index.html">Главная</a></li>
-                    <li class="nav-item"><a class="nav-link" href="search.html">Поиск по объявлениям</a></li>
-                    <li class="nav-item"><a class="nav-link" href="sign up.html">Регистрация</a></li>
-					<li class="nav-item"><a class="nav-link" href="sign in.html">Личный кабинет</a></li>
-					<li class="nav-item"><a class="nav-link" href="add announcement.html">Добавить объявление</a></li>
+					<li class="nav-item"><a class="nav-link ln" href="index.html">Главная</a></li>
+                    <li class="nav-item"><a class="nav-link ln" href="search.html">Поиск по объявлениям</a></li>
+                    <li class="nav-item"><a class="nav-link ln" href="sign up.html">Регистрация</a></li>
+					<li class="nav-item"><a class="nav-link ln" href="sign in.html">Личный кабинет</a></li>
+					<li class="nav-item"><a class="nav-link ln" href="add announcement.html">Добавить объявление</a></li>
 					
                 </ul>
                 <form class="d-flex">

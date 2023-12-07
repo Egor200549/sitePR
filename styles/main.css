@@ -8,6 +8,15 @@
 	padding-left: 10%;
 }
 
+.ln {
+    transition: all 0.25s;
+}
+
+.ln:hover {
+    color: rgb(119,119,255);
+    text-shadow: 0px 0px 1em rgb(30, 30, 158);
+}
+
 .title {
     text-align: center;
     padding: 0.8em;
